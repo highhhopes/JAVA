@@ -11,5 +11,4 @@ public class Util {
 		response.setCharacterEncoding("UTF-8");
 		response.setContentType("text/html; charset=UTF-8");
 	}
-
 }
