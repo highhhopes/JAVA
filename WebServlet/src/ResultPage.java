@@ -37,5 +37,4 @@ public class ResultPage extends HttpServlet {
 	}
 	
 	
-
 }
