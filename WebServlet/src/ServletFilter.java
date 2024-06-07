@@ -17,5 +17,4 @@ public class ServletFilter implements Filter {
 		res.setContentType("text/html; charset=UTF-8");
 		chain.doFilter(req, res);
 	}
-
 }
