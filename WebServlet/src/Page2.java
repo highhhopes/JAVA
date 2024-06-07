@@ -16,5 +16,4 @@ public class Page2 extends HttpServlet {
 		PrintWriter pw = response.getWriter();
 		pw.append("안녕하세요");
 	}
-
 }
